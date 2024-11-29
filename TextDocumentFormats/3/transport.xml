@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Car" fuel="Petrol">
+        <brand>Skoda</brand>
+        <model>Rapid</model>
+        <Capacity>5</Capacity>
+        <topSpeed unit="km/h">170</topSpeed>
+    </vehicle>
+    <vehicle type="Bicycle" fuel="None">
+        <brand>Romet</brand>
+        <model>Division 50</model>
+        <Capacity>1</Capacity>
+        <topSpeed unit="km/h">30</topSpeed>
+    </vehicle>
+    <vehicle type="Train" fuel="Electric">
+        <operator>Newag</operator>
+        <route>Krakow to Nowy Sacz</route>
+        <Capacity>160</Capacity>
+        <topSpeed unit="km/h">200</topSpeed>
+    </vehicle>
+</transport>

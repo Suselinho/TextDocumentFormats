@@ -1,0 +1,10 @@
+{
+     "ticket": {
+       "ticket_number": 542473561,
+       "passenger": "Jakub Rogoz", 
+       "isStudent": true, 
+       "price": 85.00, 
+       "first_station": "Krakow", 
+       "last_station": "Nowy Sacz"   
+     }
+}
